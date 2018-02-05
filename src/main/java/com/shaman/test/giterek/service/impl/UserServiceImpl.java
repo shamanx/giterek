@@ -13,9 +13,9 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.givaudan.cmslcms.configuration.OrikaBeanMapper;
-import com.givaudan.cmslcms.repository.UserRepository;
+import com.shaman.test.giterek.configuration.OrikaBeanMapper;
 import com.shaman.test.giterek.dto.UserDTO;
+import com.shaman.test.giterek.repository.UserRepository;
 import com.shaman.test.giterek.service.UserService;
 
 @Service
