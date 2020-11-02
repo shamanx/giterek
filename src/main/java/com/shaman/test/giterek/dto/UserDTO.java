@@ -26,5 +26,5 @@ public class UserDTO {
 	private String role;
 	private Date dateCreation;
 
-	private Integer n1;
+	private Integer n2;
 }
